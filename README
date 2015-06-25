@@ -1,3 +1,6 @@
+This is branch created to test Aggregation in Pub/Sub system. 
+
+
 PADRES v2.0
 ===========
 
@@ -25,6 +28,7 @@ Files and Directories:
 9. doc/: Generated Javadocs.
 
 
+
 Installation:
 -------------
 Check the instructions in the INSTALL file.
@@ -38,8 +42,3 @@ http://www.msrg.org/projects/padres/docs/user_guide
 The PADRES developer guide is available at 
 http://www.msrg.org/projects/padres/docs/dev_guide
 
-
---------------------------------------------------------------------
-Middleware Systems Research  (msrg.org)
-University of Toronto
-2012-02-11
